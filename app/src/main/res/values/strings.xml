@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="main1_text">1-st Activity</string>
+    <string name="main2_text">2-st Activity</string>
+    <string name="main1_button1">Go to 2-nd</string>
+    <string name="main1_button2">Dialog</string>
+    <string name="main2_button1">Back</string>
+    <string name="dialog_title">Gints Dialog</string>
+    <string-array name="gints_array">
+        <item>Gints 1</item>
+        <item>Gints 2</item>
+        <item>Gints 3</item>
+        <item>Gints 4</item>
+    </string-array>
+</resources>
